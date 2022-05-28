@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<CAT>
+  <summary>if click login button, nothing happens</summary>
+  <severity>blocker</severity>
+  <priority>hight</priority>
+  <SR>open main page > click login butto</SR>
+  <Result>nothing happens</Result>
+  <ExpResult>open login page</ExpResult>
+</CAT>
